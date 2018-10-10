@@ -1,3 +1,4 @@
+
 TDD Creator program
 
 Small program that allows the user to create there own TDD
@@ -8,5 +9,6 @@ The first type of testing I will talk about is called feature testing. Feature t
 However the second type of testing is called unit testing. This includes testing smaller parts of the program in proportion, debugging it and making sure it all works as intended. This type of testing isn't surrounded by the users steps.
 Below is a diagram of how you would test something
 
+Refactoring is also linked to testing. After testing successfully you should refactor your code and test it once more, this is so that you can make it readable and organised.
 
 ![Diagram](./Diagram.png)
